@@ -11,35 +11,35 @@ The schedule is at <https://www.kth.se/social/course/DD2482/calendar/>
 
 ## Program
 
-### Week 1: Introduction (mandatory)
+### Week 1 (August 27): Introduction (mandatory)
 * Preparatory reading: [DevOps principles](https://www.atlassian.com/devops/what-is-devops) and [demo](https://youtu.be/qcm0rG8EKXI)
 * Course introduction by Larissa Schmid (Teaching philosophy, [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom), Expectations, Team, Agenda, Grading, Communication, Infrastructure, Master's theses and Research)
 * Goals: watch the repo, register one first task as a pull request on this repo.
 
-### Week 2: [Testing automation](https://github.com/KTH/devops-course/issues/9), [Continuous Integration](https://github.com/KTH/devops-course/issues/3), [Feature flags](https://github.com/KTH/devops-course/issues/21)
+### Week 2 (Sep 3): [Testing automation](https://github.com/KTH/devops-course/issues/9), [Continuous Integration](https://github.com/KTH/devops-course/issues/3), [Feature flags](https://github.com/KTH/devops-course/issues/21)
 * Preparatory material [Testing at scale](https://increment.com/testing/testing-at-scale/), [Harvesting Production GraphQL Queries to Detect Schema Faults](https://arxiv.org/pdf/2112.08267), [The Rituals of Iterations and Tests](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9238653)
 * Student presentations, demonstrations
 
-### Week 3: [Continuous Deployment / Delivery](https://github.com/KTH/devops-course/issues/12)
+### Week 3 (Sep 10): [Continuous Deployment / Delivery](https://github.com/KTH/devops-course/issues/12)
 * Preparatory material [An Introduction to Continuous Integration, Delivery, and Deployment](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment), [The Top 10 Adages in Continuous Deployment](https://zlmonroe.com/CSE566/Readings/5.The_Top_10_Adages_In_Continuous_Deployment.pdf)
 * Student presentations, demonstrations
 
-### Week 4: [MLOps/AIOps/LLMOps](https://github.com/KTH/devops-course/issues/1016)
+### Week 4 (Sep 17): [MLOps/AIOps/LLMOps](https://github.com/KTH/devops-course/issues/1016)
 * Preparatory material: [Short intro to MLOps](https://www.databricks.com/glossary/mlops), [Building Machine Learning Models Like Open Source Software](https://cacm.acm.org/magazines/2023/2/268952-building-machine-learning-models-like-open-source-software/fulltext), [What is A/B testing?](https://medium.com/is-that-product-management/what-is-a-b-testing-bc964ecd99b4)
 * Student presentations, demonstrations
 
 
-### Week 5: [Infrastructure as Code](https://github.com/KTH/devops-course/issues/2)
+### Week 5 (Sep 24): [Infrastructure as Code](https://github.com/KTH/devops-course/issues/2)
 * Preparatory material: [Best practices for container compliance](https://increment.com/containers/container-compliance/), [Building on-demand staging environments](https://increment.com/containers/on-demand-staging-environments-kubernetes/), [Gang of eight: a defect taxonomy for infrastructure as code scripts](http://www.chrisparnin.me/pdf/GangOfEight.pdf)
 * Student presentations, demonstrations
 
 
-### Week 6: [Dependency Management](https://github.com/KTH/devops-course/issues/24) & [DevSecOps](https://github.com/KTH/devops-course/issues/18)
+### Week 6 (Oct 1): [Dependency Management](https://github.com/KTH/devops-course/issues/24) & [DevSecOps](https://github.com/KTH/devops-course/issues/18)
 * Preparatory material: [A 'Worst Nightmare' Cyberattack: The Untold Story Of The SolarWinds Hack](https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack), [The supply chain of software](https://increment.com/apis/apis-supply-chain-software/), [Successes, challenges, and wombat behind npm](https://increment.com/development/interview-with-isaac-z-schlueter-ceo-of-npm/), [A comprehensive study of bloated dependencies in the Maven ecosystem ](https://arxiv.org/pdf/2001.07808)
 * Student presentations, demonstrations
 
 
-### Week 7: Other topics
+### Week 7 (Oct 8): Other topics
 * incl. [Monitoring and Observability](https://github.com/KTH/devops-course/issues/8), [cultural aspects](https://github.com/KTH/devops-course/issues/7) and [legal aspects](https://github.com/KTH/devops-course/issues/1557), [Software bots](https://github.com/KTH/devops-course/issues/310), , [Misc DevOps topics](https://github.com/KTH/devops-course/issues/13)
 * Preparatory material [Chaos Engineering](https://ieeexplore.ieee.org/iel7/52/5204063/07436642.pdf) [A Chaos Engineering System for Live Analysis and Falsification of Exception-handling in the JVM](http://arxiv.org/pdf/1805.05246) 
 * Student presentations, demonstrations
