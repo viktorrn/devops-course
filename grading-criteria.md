@@ -83,6 +83,7 @@ Criteria for the selection of the open-source project: 1) The project is related
 
 |                                            | Yes | No |
 |-------------------------------------------- | ----|----|
+|difficulty: The contribution is a difficult piece of engineering, either a bug fix or a new feature | Mandatory | - | 
 |declaration of intention: The intention to contribute is declared in the project's preferred method (e.g., issue, mailing list). | Yes | No |
 |work-in-progress (WIP): The contribution is marked as WIP until it is ready for review. | Yes | No |
 |ready for review: The contribution is marked as ready and announced for review when it is complete. | Yes | No |
@@ -91,7 +92,6 @@ Criteria for the selection of the open-source project: 1) The project is related
 |testing: The contribution includes necessary testing. | Yes | No |
 |code quality: The code contributed is of high quality, following the project's coding standards and guidelines. | Yes | No |
 |relevance: The contribution is relevant to the project's roadmap and adds value to the project. | Yes | No |
-|difficulty: The contribution is a difficult piece of engineering, either a bug fix or a new feature (mandatory) | Yes | No | 
 |merge: The contribution is merged in the main branch of the target project.| Yes | No | 
 
 
@@ -132,7 +132,7 @@ The feedback is provided in a written manner as a well-structured comment on the
 |-------------------------------------------- | ----|----|
 |substance: the feedback is substantiated (at least 500 words) | Mandatory | - | 
 |generative AI: the feeback contains "I/We certify that generative AI, incl. ChatGPT, has not been used to write this feedback. Using generative AI without permission is considered academic misconduct."| Mandatory | - |
-|timeliness: the feedback is provided 2 business days (48h) after the "go" from the authors | Yes | No | 
+|timeliness: the feedback is provided 2 business days after the "go" from the authors | Yes | No | 
 |positive: the feedback starts with a list of high-level strengths and positive comments| Yes | No |
 |high-level: the feedback points to clear high-level weaknesses about the work | Yes | No |
 |constructive: all feedback points are constructive and clearly actionable | Yes | No | 
