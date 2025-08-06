@@ -25,7 +25,7 @@ The schedule is at <https://www.kth.se/social/course/DD2482/calendar/>
 * Student presentations, demonstrations
 
 ### Week 4 (Sep 17): [MLOps/AIOps/LLMOps](https://github.com/KTH/devops-course/issues/1016)
-* Preparatory material: [Short intro to MLOps](https://www.databricks.com/glossary/mlops), [Building Machine Learning Models Like Open Source Software](https://cacm.acm.org/magazines/2023/2/268952-building-machine-learning-models-like-open-source-software/fulltext), [What is A/B testing?](https://medium.com/is-that-product-management/what-is-a-b-testing-bc964ecd99b4)
+* Preparatory material: [Short intro to MLOps](https://www.databricks.com/glossary/mlops), [Building Machine Learning Models Like Open Source Software](https://cacm.acm.org/magazines/2023/2/268952-building-machine-learning-models-like-open-source-software/fulltext)
 * Student presentations, demonstrations
 
 
