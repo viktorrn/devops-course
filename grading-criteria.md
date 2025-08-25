@@ -31,7 +31,7 @@ To pass, you must have at least 8 "yes".
 ## Scientific Papers
 
 
-The concept: The students prepare a 7 minute presentation on one scientific paper related to DevOps. We recommend to consider papers in [software engineering venues](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_softwaresystems), but we welcome any proposal.
+The concept: The students prepare a 7 minute presentation on one scientific paper related to DevOps. Papers must be published in the main proceedings of [software engineering](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_softwaresystems) or [computer security](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computersecuritycryptography) venues. 
 
 
 |                                             | Yes | No |
