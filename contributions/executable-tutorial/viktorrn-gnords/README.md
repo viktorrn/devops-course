@@ -11,11 +11,11 @@ From Imperative to Declarative: From a CLI Docker server to a Terraform infrastr
 
 ## Deadline
 
-- Async
+- Task 1
 
 ## Category
 
-- Executable Tutorial
+- Executable tutorial
 
 ## Description
 
@@ -25,7 +25,7 @@ The demo is about comparing Docker, Docker Compose with Terraform. The ideas is 
 2. Have a sense for how each approach handles changes and drift.
 3. Run the same app via three tools and compare workflows.
 
-The tutorial will be done in KillerCode and run as a tutorial in 5 steps, intro, docker CLI, docker compose, terraform, wrap-up. 
+The tutorial will be done in KillerCode and run as a tutorial in 5 steps, intro, docker CLI, docker compose, terraform, wrap-up.
 
 **Relevance**
 
