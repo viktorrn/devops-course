@@ -33,12 +33,12 @@ General Intro about the course.
 4. [Building and running CI/CD pipelines with TeamCity: A Live Demo](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week3/sibergl-majalind) - Demo
 5. [Simplify and customize your CD with CircleCI Orbs](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week3/roboam-birgerk) - Demo
 6. [The power of canary releases in CD pipelines: Monitoring and Rollback](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week3/ericwer-yvdal) - Presentation
-7. [Dark Launching - Fast Deployment, Slow Release](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week3/gnords-oarbman) - Presentation
-8. [Blue Green Deployment Demo](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week3/cocco-anicak) - Demo
-9. [Comparing Canary Releases and A/B Testing in Progressive Delivery](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week3/haraldhr-lflod) - Presentation
-10. [Comparing Deployment Strageties: Shadow, Canary and Blue-Green](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week3/edwinso-tiar) - Presentation
-11. [Automated Preview Deployments of Web Applications](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week3/mathm-kevinwe) - Demo
-12. [Demo: How to easily deploy Docker images to Amazon AWS using GitHub Actions and Docker Hub](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week3/adammeh-rifat) - Demo
-13. [Multi-Cloud Deployments for Fault Tolerant Systems](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week3/matcov-thees) - Presentation
-14. [CD Using Elixir/Erland Hot Code Swapping and Github self-hosted Runner](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week3/edwinahl-ekanerva) - Demo
-15. [Implementing fan-in/fan-out pipelines in GoCD for continous deployment](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week3/fransho-lindanyc) - Presentation
+7. [Implementing fan-in/fan-out pipelines in GoCD for continous deployment](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week3/fransho-lindanyc) - Presentation
+8. [Dark Launching - Fast Deployment, Slow Release](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week3/gnords-oarbman) - Presentation
+9. [Blue Green Deployment Demo](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week3/cocco-anicak) - Demo
+10. [Comparing Canary Releases and A/B Testing in Progressive Delivery](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week3/haraldhr-lflod) - Presentation
+11. [Comparing Deployment Strageties: Shadow, Canary and Blue-Green](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week3/edwinso-tiar) - Presentation
+12. [Automated Preview Deployments of Web Applications](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week3/mathm-kevinwe) - Demo
+13. [Demo: How to easily deploy Docker images to Amazon AWS using GitHub Actions and Docker Hub](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week3/adammeh-rifat) - Demo
+14. [Multi-Cloud Deployments for Fault Tolerant Systems](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week3/matcov-thees) - Presentation
+15. [CD Using Elixir/Erland Hot Code Swapping and Github self-hosted Runner](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week3/edwinahl-ekanerva) - Demo
