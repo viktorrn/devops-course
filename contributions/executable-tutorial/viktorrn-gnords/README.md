@@ -29,5 +29,7 @@ The tutorial will be done in [Killercoda](https://killercoda.com/) and run as a 
 
 **Relevance**
 
-This tutorial is relevant because it guides the user through the concept of Imperative vs Declarative infrastructure by allowing the user to write and interact with a very common tools used for managing web server infrastructures, Docker. Furthermore the tutorial will guide the user through the strengths and weknesses of imperative Docker CLI compared to delacrative Docker Compose and then argue for why you and when would need to further enhance your set-up with Infrastructure as Code through Terraform. This tutorial is aimed to enableing the user to get a practical introduction to these topics and see how the differ in practice.
+This tutorial is relevant because it will introduce the concept of Imperative vs declarative infrastructure. This will be done by allowing the user to interact with Docker and Terraform, two common tool used for managing web server infrastructures. 
+
+The tutorial will compare strengths and weaknesses of imperative Docker CLI compared to declarative Docker Compose and then argue for why you and when you might need to further enhance the setup Infrastructure as Code using Terraform. This tutorial is designed to give the user a practical introduction to these topics and to demonstrate how they differ in practice.
 
